@@ -155,15 +155,15 @@
 #define CONV_7_OFM_CH 64 
 #define CONV_7_OFM_ROW 10 
 #define CONV_7_OFM_COL 20 
-#define CONV_7_IN_CH_PARA 5 
-#define CONV_7_OUT_CH_PARA 8 
+#define CONV_7_IN_CH_PARA 10 
+#define CONV_7_OUT_CH_PARA 4 
 #define CONV_7_IN_BIT 4 
 #define CONV_7_OUT_BIT 4 
 #define CONV_7_W_BIT 4 
 #define CONV_7_INC_BIT 13 
 #define CONV_7_BIAS_BIT 23 
 #define CONV_7_W_TILES 4608 
-#define CONV_7_A_TILES 8 
+#define CONV_7_A_TILES 16 
 #define CONV_7_L_SHIFT 8 
 
 // conv_8
